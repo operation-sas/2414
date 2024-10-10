@@ -9,3 +9,5 @@ datagroup: lillies_project_default_datagroup {
 }
 
 persist_with: lillies_project_default_datagroup
+
+explore: flights{}
